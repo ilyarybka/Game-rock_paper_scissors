@@ -1,9 +1,3 @@
-/*Iliya Klishin
- *Dr. Steinberg
- *COP 3330 Spring 2022
- *Programming Assignment 1
- */
- 
  import java.util.Scanner;
  import java.util.Random;
  
